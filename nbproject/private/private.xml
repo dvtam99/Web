@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/authentication/AuthFilter.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/ca/DelcaServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/model/Mua.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/ca/ca.jsp</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/model/MaMua.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/Ban/EditMbServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/Mua/DelServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/Mua/MuaServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/Ban/DelServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/authentication/BaseRequiredAuthenticationController.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/BaoCaoDAO.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/home.jsp</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/HomeServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/buy/buy.jsp</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/DeauthenticationController.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/doitac/doitac.jsp</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/WEB-INF/tlds/taglib.tld</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/ca/editca.jsp</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/doitac/Doitac.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/model/Ca.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/ban/editMb.jsp</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/Ban/BanServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/MaMuaDAO.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/ban/ban.jsp</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/util/SessionUtil.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/ca/CaServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/authentication/AuthenticationController.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/Mua/EditEServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/MaBanDAO.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/controller/ca/EditcaServlet.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/model/BaoCao.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/DoiTacDAO.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/model/TaiKhoan.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/BanDAO.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/model/Ban.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/WEB-INF/web.xml</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/model/DoiTac.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/util/HtmlHelper.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/MuaDAO.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/CaDAO.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/src/java/dal/DBContext.java</file>
+            <file>file:/H:/STUDYY/SPR2020/PRJ321RE/Project/Web/web/WEB-INF/css/paging.css</file>
+        </group>
+    </open-files>
+</project-private>
